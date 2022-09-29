@@ -47,7 +47,7 @@
     }
   },
   "dependencies": {
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "demofile": "../../csgo/demofile",
     "electron-compile": "^6.4.4",
     "electron-devtools-installer": "^2.1.0",
